@@ -1,0 +1,2 @@
+This is my first text to learn git.
+I hope I can make a progress.
