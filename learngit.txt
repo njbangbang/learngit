@@ -1,2 +1,3 @@
 This is my second text to learn git.
 I hope I can make a lot of progress.
+It's Monday today. New week for study.
